@@ -24,6 +24,40 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+
+
+## 🛠️ Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+- TypeScript
+
+### Backend
+- Node.js
+- Express.js
+- PHP
+- Laravel
+
+### Databases
+- MongoDB
+- MySQL
+
+### CMS
+- WordPress
+
+## 🔧 Tools & Technologies
+- Git
+- GitHub
+- Docker
+- VS Code
+
+
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
