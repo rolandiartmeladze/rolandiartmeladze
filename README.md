@@ -25,36 +25,34 @@
 </p>
 
 
-
 ## 🛠️ Skills
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Next.js
-- TypeScript
+<span style="background-color: #E34F26; color: white; padding: 5px; border-radius: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)</span>
+<span style="background-color: #1572B6; color: white; padding: 5px; border-radius: 5px;">![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)</span>
+<span style="background-color: #F7DF1E; color: black; padding: 5px; border-radius: 5px;">![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)</span>
+<span style="background-color: #61DAFB; color: black; padding: 5px; border-radius: 5px;">![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)</span>
+<span style="background-color: #000000; color: white; padding: 5px; border-radius: 5px;">![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)</span>
+<span style="background-color: #3178C6; color: white; padding: 5px; border-radius: 5px;">![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)</span>
 
 ### Backend
-- Node.js
-- Express.js
-- PHP
-- Laravel
+<span style="background-color: #339933; color: white; padding: 5px; border-radius: 5px;">![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)</span>
+<span style="background-color: #000000; color: white; padding: 5px; border-radius: 5px;">![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)</span>
+<span style="background-color: #777BB4; color: white; padding: 5px; border-radius: 5px;">![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)</span>
+<span style="background-color: #FF2D20; color: white; padding: 5px; border-radius: 5px;">![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)</span>
 
 ### Databases
-- MongoDB
-- MySQL
+<span style="background-color: #47A248; color: white; padding: 5px; border-radius: 5px;">![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)</span>
+<span style="background-color: #4479A1; color: white; padding: 5px; border-radius: 5px;">![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)</span>
 
 ### CMS
-- WordPress
+<span style="background-color: #21759B; color: white; padding: 5px; border-radius: 5px;">![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)</span>
 
 ## 🔧 Tools & Technologies
-- Git
-- GitHub
-- Docker
-- VS Code
-
+<span style="background-color: #F05032; color: white; padding: 5px; border-radius: 5px;">![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)</span>
+<span style="background-color: #181717; color: white; padding: 5px; border-radius: 5px;">![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)</span>
+<span style="background-color: #2496ED; color: white; padding: 5px; border-radius: 5px;">![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)</span>
+<span style="background-color: #007ACC; color: white; padding: 5px; border-radius: 5px;">![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code)</span>
 
 
 
