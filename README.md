@@ -8,7 +8,7 @@
   <a href="https://github.com/rolandiartmeladze"><img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
-<p align="center">## 🛠️ Skills
+<p align="center">## 🛠️ Skills</p>
 
 ### Frontend
 <span style="background-color: #E34F26; color: white; padding: 5px; border-radius: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)</span>
