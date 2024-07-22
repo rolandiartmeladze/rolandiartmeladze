@@ -3,12 +3,12 @@
 
 <p align="center"> As a beginner full-stack web developer, I'm driven by the opportunity to create meaningful solutions from scratch or tackle practical challenges head-on. My expertise lies in frontend development, where I use HTML, CSS, JavaScript, and React to bring user visions to life with precision and style. Recently, I've embraced TypeScript for enhanced code quality and scalability. On the backend, I've successfully developed Node.js Express applications, building reliable server-side solutions. Additionally, I proficiently manage databases using MongoDB and Mongoose Atlas for seamless data integration. I thrive on pushing boundaries and exploring emerging technologies to deliver effective results in collaborative environments. </p>
 
-
+< p  align="center">
   <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://img.shields.io/badge/-Roland%20Artmeladze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roland-a-96240487/" alt="LinkedIn"/></a>
   <a href="https://github.com/rolandiartmeladze"><img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
-<p align="center">## 🛠️ Skills</p>
+<p>## 🛠️ Skills</p>
 
 ### Frontend
 <span style="background-color: #E34F26; color: white; padding: 5px; border-radius: 5px;">![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)</span>
