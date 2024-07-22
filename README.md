@@ -2,12 +2,13 @@
 <h3 align="center">Full Stack Web Developer from Georgia</h3>
 
 <p align="center">
-  As a full-stack web developer, I am driven by the opportunity to create meaningful solutions from scratch and tackle practical challenges. My expertise lies in frontend development with HTML, CSS, JavaScript, and React, complemented by my recent embrace of TypeScript for enhanced code quality and scalability. On the backend, I build reliable server-side solutions using Node.js and Express. Additionally, I manage databases with MongoDB and Mongoose Atlas for seamless data integration. I thrive on pushing boundaries and exploring emerging technologies to deliver effective results in collaborative environments.
+  I'm a full-stack web developer skilled in frontend technologies like HTML, CSS, JavaScript, React, and TypeScript. On the backend, I use Node.js and Express, and I manage databases with MongoDB and Mongoose Atlas. I enjoy tackling challenges and exploring new technologies to deliver effective results.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://img.shields.io/badge/-Roland%20Artmeladze-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/rolandiartmeladze"><img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/></a>
+  <a href="https://wa.me/995568515303"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ## 🛠️ Skills
@@ -64,4 +65,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/rolandiartmeladze"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://wa.me/995568515303"><img src="https://img.icons8.com/ios-glyphs/30/25D366/whatsapp.png" alt="WhatsApp" height="30" width="40" /></a>
 </p>
