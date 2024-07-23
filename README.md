@@ -1,8 +1,5 @@
 ![Banner Image](https://github.com/rolandiartmeladze/Portfolio/blob/main/src/img/Readme_baner.jpg)
 
-<h1 align="center">Hi there, I'm Roland Artmeladze 👋</h1>
-<h3 align="center">Full Stack Web Developer from Georgia</h3>
-
 <p align="center">
   I'm a full-stack web developer skilled in frontend technologies like <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>TypeScript</b>. On the backend, I use <b>Node.js</b> and <b>Express</b>, and I manage databases with <b>MongoDB</b> and <b>Mongoose Atlas</b>. I enjoy tackling challenges and exploring new technologies to deliver effective results.
 </p>
