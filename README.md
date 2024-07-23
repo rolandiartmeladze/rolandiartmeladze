@@ -1,4 +1,4 @@
-![Banner Image]([https://github.com/rolandiartmeladze/baners.jpg](https://github.com/rolandiartmeladze/Portfolio/blob/main/src/img/Readme_baner.jpg))
+![Banner Image](https://github.com/rolandiartmeladze/Portfolio/blob/main/src/img/Readme_baner.jpg)
 
 <h1 align="center">Hi there, I'm Roland Artmeladze 👋</h1>
 <h3 align="center">Full Stack Web Developer from Georgia</h3>
