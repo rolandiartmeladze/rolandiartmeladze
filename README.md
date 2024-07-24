@@ -63,6 +63,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+<p  align="left">
 <ul style="list-style-type: none; padding-left: 0;">
  <li> 
    <a href="https://www.linkedin.com/in/roland-a-96240487/">
