@@ -63,6 +63,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p  align="left">
 <ul style="list-style-type: none; padding-left: 0;">
  <li> 
@@ -83,4 +84,5 @@
     (+995) 568 51-53-03
     </a>
   </li>
+</ul>
 </p>
