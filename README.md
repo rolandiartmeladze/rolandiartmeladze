@@ -62,9 +62,11 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/rolandiartmeladze"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://wa.me/995568515303"><img src="https://img.icons8.com/ios-glyphs/30/25D366/whatsapp.png" alt="WhatsApp" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <li> 
+   <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+ </li>
+ <li> <a href="https://github.com/rolandiartmeladze"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" /></a></li>
+  <li><a href="https://wa.me/995568515303"><img src="https://img.icons8.com/ios-glyphs/30/25D366/whatsapp.png" alt="WhatsApp" height="30" width="40" /></a></li>
 </p>
