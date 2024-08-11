@@ -24,7 +24,7 @@ I enjoy tackling challenges and exploring new technologies to deliver effective 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-777BB4?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-777BB4?style=flat-square&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php&logoColor=white)
 
 
@@ -32,8 +32,7 @@ I enjoy tackling challenges and exploring new technologies to deliver effective 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-![Django](https://img.shields.io/badge/Django-Intermediate-777BB4?style=flat-square&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/Intermediate-777BB4?style=flat-square&logo=Django&logoColor=white)
 
 ### CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
