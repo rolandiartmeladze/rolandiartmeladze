@@ -32,7 +32,7 @@ I enjoy tackling challenges and exploring new technologies to deliver effective 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Intermediate-777BB4?style=flat-square&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-777BB4?style=flat-square&logo=Django&logoColor=white)
 
 ### CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
