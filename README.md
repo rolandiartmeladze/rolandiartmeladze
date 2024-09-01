@@ -9,7 +9,7 @@ I enjoy tackling challenges and exploring new technologies to deliver effective 
 <p align="center">
   <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://img.shields.io/badge/-Roland%20Artmeladze-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/rolandiartmeladze"><img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/></a>
-  <a href="https://wa.me/995568515303"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
 </p>
 
 ## 🛠️ Skills
