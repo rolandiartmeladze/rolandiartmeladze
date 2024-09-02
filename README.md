@@ -88,10 +88,6 @@ I enjoy tackling challenges and exploring new technologies to deliver effective 
    </a>
  </p>
 <p>
-    <a href="https://wa.me/995568515303">
-      <img src="https://img.icons8.com/ios-glyphs/30/25D366/whatsapp.png" alt="WhatsApp" height="30" width="40" />
-    (+995) 568 51-53-03
-    </a>
- </p>
+   
 </ul>
 </p>
