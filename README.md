@@ -2,6 +2,11 @@
 
  <h3 align="center">Full-Stack Developer from Georgia</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://img.shields.io/badge/-Roland%20Artmeladze-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/rolandiartmeladze"><img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/></a>
+
+</p>
 
 <p align="center">
   I am a dedicated full-stack web developer with a strong foundation in both frontend and backend development. My frontend expertise includes <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>React</b>, with a recent focus on <b>TypeScript</b> for scalable, high-quality code. On the backend, I have successfully built reliable server-side applications using <b>Node.js</b>, <b>Express</b>, <b>Nest.js</b>, and <b>Python</b>. I am proficient in managing databases with <b>MongoDB</b>, <b>Mongoose Atlas</b>, and <b>Django</b>, ensuring seamless data integration. I am passionate about pushing boundaries and embracing new technologies to create impactful solutions in collaborative environments.
@@ -9,11 +14,6 @@ I enjoy tackling challenges and exploring new technologies to deliver effective 
 
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/roland-a-96240487/"><img src="https://img.shields.io/badge/-Roland%20Artmeladze-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/rolandiartmeladze"><img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/></a>
-
-</p>
 
 ## 🛠️ Skills
 
