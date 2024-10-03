@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Roland Artmeladze </h1>
 
- <h3 align="center">MERN Full-Stack Developer from Georgia</h3>
+ <h3 align="center">Full-Stack Developer from Georgia</h3>
 
 
 <p align="center">
