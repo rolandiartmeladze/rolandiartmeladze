@@ -8,7 +8,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
   I am a dedicated full-stack web developer with a strong foundation in both frontend and backend development. My frontend expertise includes <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>React</b>, with a recent focus on <b>TypeScript</b> for scalable, high-quality code. On the backend, I have successfully built reliable server-side applications using <b>Node.js</b>, <b>Express</b>, <b>Nest.js</b>, and <b>Python</b>. I am proficient in managing databases with <b>MongoDB</b>, <b>Mongoose Atlas</b>, and <b>Django</b>, ensuring seamless data integration. I am passionate about pushing boundaries and embracing new technologies to create impactful solutions in collaborative environments.
 I enjoy tackling challenges and exploring new technologies to deliver effective results. My goal is to contribute to innovative projects that drive growth and success.
 
