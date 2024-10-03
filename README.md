@@ -1,4 +1,7 @@
-![Banner Image](https://github.com/rolandiartmeladze/Portfolio/blob/main/src/img/Readme_baner.jpg)
+<h1> Hi 👋, I'm Roland Artmeladze </h1>
+<hr />
+ <h3>MERN Stack Developer from Georgia</h3>
+
 
 <p align="center">
   I am a dedicated full-stack web developer with a strong foundation in both frontend and backend development. My frontend expertise includes <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>React</b>, with a recent focus on <b>TypeScript</b> for scalable, high-quality code. On the backend, I have successfully built reliable server-side applications using <b>Node.js</b>, <b>Express</b>, <b>Nest.js</b>, and <b>Python</b>. I am proficient in managing databases with <b>MongoDB</b>, <b>Mongoose Atlas</b>, and <b>Django</b>, ensuring seamless data integration. I am passionate about pushing boundaries and embracing new technologies to create impactful solutions in collaborative environments.
