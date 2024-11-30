@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
 ### Databases
