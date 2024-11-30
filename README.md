@@ -81,16 +81,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>
     <a href="https://www.linkedin.com/in/roland-a-96240487/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       Roland Artmeladze
     </a>
-  </li> 
-  <li>
     <a href="https://github.com/rolandiartmeladze">
       <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" />
       Roland Artmeladze
     </a>
-  </li>
 </ul>
