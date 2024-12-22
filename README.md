@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roland Artmeladze</h1>
-<h3 align="center">Full-Stack Developer from Georgia</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/roland-a-96240487/">
-    <img src="https://img.shields.io/badge/-Roland%20Artmeladze-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/rolandiartmeladze">
-    <img src="https://img.shields.io/github/followers/rolandiartmeladze?label=Follow&style=social" alt="GitHub"/>
-  </a>
-</p>
+# Hi 👋, I'm Roland Artmeladze  
+ <h3>Full-Stack Developer from Georgia</h3>  
 
 <p align="left">
   I am an aspiring full-stack web developer with a strong foundation in frontend development and growing expertise in backend technologies. My frontend skills include <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>React</b>, with a recent focus on <b>TypeScript</b> for scalable and maintainable code. On the backend, I have experience building server-side applications using <b>Node.js</b>, <b>Express.js</b>, and <b>Python</b> with <b>Django REST Framework</b>. I am proficient in database management with <b>MongoDB</b>, <b>Mongoose Atlas</b>, and <b>Django ORM</b>, ensuring smooth data handling and integration. 
