@@ -65,9 +65,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rolandiartmeladze">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolandiartmeladze&theme=radical&border=7F3FBF&background=0D1117" alt="Roland Artmeladze's GitHub streak"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rolandartmeladze&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
