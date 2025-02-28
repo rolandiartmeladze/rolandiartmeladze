@@ -2,8 +2,12 @@
  <h3>Full-Stack Developer from Georgia</h3>  
 
 <p align="left">
-  I am an aspiring full-stack web developer with a strong foundation in frontend development and growing expertise in backend technologies. My frontend skills include <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>React</b>, with a recent focus on <b>TypeScript</b> for scalable and maintainable code. On the backend, I have experience building server-side applications using <b>Node.js</b>, <b>Express.js</b>, and <b>Python</b> with <b>Django REST Framework</b>. I am proficient in database management with <b>MongoDB</b>, <b>Mongoose Atlas</b>, and <b>Django ORM</b>, ensuring smooth data handling and integration. 
-  I am passionate about learning new technologies, overcoming challenges, and contributing to impactful projects. My goal is to deliver high-quality solutions that drive innovation and success in collaborative environments.
+  I am an ambitious and goal-oriented full-stack web developer with a strong foundation in frontend development and expanding expertise in backend technologies. My frontend skills include 
+ JavaScript, and React, with a deep focus on TypeScript to build scalable, maintainable, and high-performance applications. I specialize in crafting modern, responsive, and user-friendly interfaces using Next.js and Tailwind CSS, ensuring both aesthetics and functionality.
+
+On the backend, I have hands-on experience developing server-side applications using Node.js, Express.js, and Python with Django REST Framework. I am proficient in database management with MongoDB, Mongoose Atlas, and Django ORM, ensuring efficient data handling and seamless integration across applications.
+
+I am passionate about continuous learning, solving complex problems, and working in collaborative environments where innovative ideas turn into impactful solutions. My goal is to deliver high-quality software that not only meets user needs but also drives technological advancements. I am eager to contribute my skills to forward-thinking teams and projects that challenge me to grow and evolve as a developer.
 </p>
 
 
@@ -11,8 +15,6 @@
 
 ### Frontend
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
