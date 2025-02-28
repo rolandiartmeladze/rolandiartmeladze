@@ -1,19 +1,22 @@
 # Hi 👋, I'm Roland Artmeladze  
- <h3>Full-Stack Developer from Georgia</h3>  
+### Full-Stack Developer from Georgia
 
-<p align="left">
-  I am an ambitious and goal-oriented full-stack web developer with a strong foundation in frontend development and expanding expertise in backend technologies. My frontend skills include 
- JavaScript, and React, with a deep focus on TypeScript to build scalable, maintainable, and high-performance applications. I specialize in crafting modern, responsive, and user-friendly interfaces using Next.js and Tailwind CSS, ensuring both aesthetics and functionality.
+I am an ambitious and goal-oriented full-stack web developer with a strong foundation in frontend development and expanding expertise in backend technologies.  
+My **frontend** skills include **JavaScript** and **React**, with a deep focus on **TypeScript** to build scalable, maintainable, and high-performance applications.  
+I specialize in crafting modern, responsive, and user-friendly interfaces using **Next.js** and **Tailwind CSS**, ensuring both aesthetics and functionality.
 
-On the backend, I have hands-on experience developing server-side applications using Node.js, Express.js, and Python with Django REST Framework. I am proficient in database management with MongoDB, Mongoose Atlas, and Django ORM, ensuring efficient data handling and seamless integration across applications.
+On the **backend**, I have hands-on experience developing server-side applications using **Node.js**, **Express.js**, and **Python** with **Django REST Framework**.  
+I am proficient in database management with **MongoDB**, **Mongoose Atlas**, and **Django ORM**, ensuring efficient data handling and seamless integration across applications.
 
-I am passionate about continuous learning, solving complex problems, and working in collaborative environments where innovative ideas turn into impactful solutions. My goal is to deliver high-quality software that not only meets user needs but also drives technological advancements. I am eager to contribute my skills to forward-thinking teams and projects that challenge me to grow and evolve as a developer.
-</p>
+I am passionate about continuous learning, solving complex problems, and working in collaborative environments where innovative ideas turn into impactful solutions.  
+My goal is to deliver high-quality software that not only meets user needs but also drives technological advancements.  
+I am eager to contribute my skills to forward-thinking teams and projects that challenge me to grow and evolve as a developer.
 
+---
 
 ## 🛠️ Skills
 
-### Frontend
+### **Frontend**
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
@@ -22,7 +25,7 @@ I am passionate about continuous learning, solving complex problems, and working
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </div>
 
-### Backend
+### **Backend**
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
@@ -31,7 +34,7 @@ I am passionate about continuous learning, solving complex problems, and working
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django"/>
 </div>
 
-### Databases
+### **Databases**
 <div>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" alt="Mongoose"/>
@@ -39,8 +42,7 @@ I am passionate about continuous learning, solving complex problems, and working
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
-
-### CMS & Tools
+### **CMS & Tools**
 <div>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
@@ -48,6 +50,8 @@ I am passionate about continuous learning, solving complex problems, and working
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
+
+---
 
 ## 📈 GitHub Stats
 
@@ -70,17 +74,8 @@ I am passionate about continuous learning, solving complex problems, and working
  <img src="https://github-readme-streak-stats.herokuapp.com?user=rolandartmeladze&hide_current_streak=true" alt="Roland Artmeladze GitHub Streak" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<div>
-    <a href="https://www.linkedin.com/in/roland-a-96240487/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      Roland Artmeladze
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/rolandiartmeladze">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" />
-      Roland Artmeladze
-    </a>
-  </div>
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)
+- [GitHub](https://github.com/rolandiartmeladze)
