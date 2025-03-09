@@ -59,7 +59,7 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   <a href="https://github.com/rolandiartmeladze">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rolandiartmeladze&theme=radical" alt="Roland Artmeladze's GitHub Contribution"/>
   </a>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://github.com/rolandiartmeladze">
@@ -70,12 +70,7 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   </a>
 </p>
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=rolandartmeladze&hide_current_streak=true" alt="Roland Artmeladze GitHub Streak" />
-</p>
-
----
-
+  
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)
 - [GitHub](https://github.com/rolandiartmeladze)
