@@ -68,12 +68,10 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   <a href="https://github.com/rolandiartmeladze">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandiartmeladze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" alt="Roland Artmeladze's Top Languages" height="192px" width="49.5%"/>
   </a>
-
-  <a href="https://github.com/rolandiartmeladze">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandiartmeladze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" alt="Roland Artmeladze's Top Languages" height="192px" width="32%"/>
-  </a>
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rolandiartmeladze)](https://git.io/streak-stats)
   
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)
