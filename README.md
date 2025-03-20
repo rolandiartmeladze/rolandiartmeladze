@@ -70,9 +70,8 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   </a>
 </p>
 
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=rolandiartmeladze)](https://git.io/streak-stats)
-<p>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=rolandiartmeladze" alt="GitHub Streak" /></a>
   
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)
