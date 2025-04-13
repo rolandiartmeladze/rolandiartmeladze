@@ -1,6 +1,7 @@
 # Hi 👋, I'm Roland Artmeladze  
 ### Full-Stack Developer from Georgia
 
+
 I am an ambitious and goal-oriented full-stack web developer with a strong foundation in frontend development and expanding expertise in backend technologies.  
 My **frontend** skills include **JavaScript** and **React**, with a deep focus on **TypeScript** to build scalable, maintainable, and high-performance applications.  
 I specialize in crafting modern, responsive, and user-friendly interfaces using **Next.js** and **Tailwind CSS**, ensuring both aesthetics and functionality.
