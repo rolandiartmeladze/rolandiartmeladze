@@ -4,7 +4,7 @@
 
 I am an ambitious and goal-oriented full-stack web developer with a strong foundation in frontend development and expanding expertise in backend technologies.  
 My **frontend** skills include **JavaScript** and **React**, with a deep focus on **TypeScript** to build scalable, maintainable, and high-performance applications.  
-I specialize in crafting modern, responsive, and user-friendly interfaces using **Next.js** and **Tailwind CSS**, ensuring both aesthetics and functionality.
+I specialize in crafting modern, responsive, and user-friendly interfaces using **Next.js** **Vue.js** and **Tailwind CSS**, ensuring both aesthetics and functionality.
 
 On the **backend**, I have hands-on experience developing server-side applications using **Node.js**, **Express.js**, and **Python** with **Django REST Framework**.  
 I am proficient in database management with **MongoDB**, **Mongoose Atlas**, and **Django ORM**, ensuring efficient data handling and seamless integration across applications.
