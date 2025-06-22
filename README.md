@@ -34,6 +34,7 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Laravel-BF3321?style=flat-square&logo=laravel&logoColor=white" alt="Laravel (Beginner)"/>
 </div>
 
 ### **Databases**
@@ -42,7 +43,10 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
 </div>
+
+
 
 ### **CMS & Tools**
 <div>
