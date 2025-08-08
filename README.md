@@ -80,14 +80,12 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/roland-artmeladze/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rolandiartmeladze" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/rolandiartmeladze" target="_blank">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-</p>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> **[LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)**  
+  <span style="color:#0A66C2;">Professional updates, experience, and connections</span>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> **[GitHub](https://github.com/rolandiartmeladze)**  
+  <span style="color:#181717;">My code, open-source projects, and contributions</span>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" /> **[GitLab](https://gitlab.com/your-username)**  
+  <span style="color:#FC6D26;">Private/enterprise repositories and team collaboration</span>
+
