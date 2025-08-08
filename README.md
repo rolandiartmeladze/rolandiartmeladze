@@ -69,7 +69,7 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
   </li>
   <li style="list-style: disc; margin-left: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" style="vertical-align: middle; margin-right: 5px;" />
-    <a href="https://gitlab.com/your-username" target="_blank" style="font-weight: bold; color: #FC6D26; text-decoration: none;">GitLab</a>
+    <a href="https://gitlab.com/rolandiartmeladze" target="_blank" style="font-weight: bold; color: #FC6D26; text-decoration: none;">GitLab</a>
   </li>
 </ul>
 
