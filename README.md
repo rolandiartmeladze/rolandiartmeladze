@@ -78,6 +78,16 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
 
 
   
-### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)
-- [GitHub](https://github.com/rolandiartmeladze)
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/roland-artmeladze/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rolandiartmeladze" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/rolandiartmeladze" target="_blank">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+</p>
