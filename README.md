@@ -55,6 +55,11 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
 </div>
 
 ---
+
+### 🔗 Also on GitLab
+[![GitLab](https://img.shields.io/badge/GitLab-Portfolio-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rolandiartmeladze)
+
+---
   
 ### 🌐 Connect with me
 
