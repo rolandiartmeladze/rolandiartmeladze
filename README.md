@@ -55,6 +55,25 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
 </div>
 
 ---
+  
+### 🌐 Connect with me
+
+<ul style="display: flex; gap: 10px; padding: 0; margin: 0;">
+  <li style="list-style: disc; margin-left: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 5px;" />
+    <a href="https://www.linkedin.com/in/roland-artmeladze" target="_blank" style="font-weight: bold; color: #0077B5; text-decoration: none;">LinkedIn</a>
+  </li>
+  <li style="list-style: disc; margin-left: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align: middle; margin-right: 5px;" />
+    <a href="https://github.com/rolandiartmeladze" target="_blank" style="font-weight: bold; color: #000000; text-decoration: none;">GitHub</a>
+  </li>
+  <li style="list-style: disc; margin-left: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" style="vertical-align: middle; margin-right: 5px;" />
+    <a href="https://gitlab.com/your-username" target="_blank" style="font-weight: bold; color: #FC6D26; text-decoration: none;">GitLab</a>
+  </li>
+</ul>
+
+--- 
 
 ## 📈 GitHub Stats
 
@@ -77,15 +96,4 @@ I am eager to contribute my skills to forward-thinking teams and projects that c
 </p>
 
 
-  
-### 🌐 Connect with me
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> **[LinkedIn](https://www.linkedin.com/in/roland-artmeladze/)**  
-  <span style="color:#0A66C2;">Professional updates, experience, and connections</span>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> **[GitHub](https://github.com/rolandiartmeladze)**  
-  <span style="color:#181717;">My code, open-source projects, and contributions</span>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" /> **[GitLab](https://gitlab.com/your-username)**  
-  <span style="color:#FC6D26;">Private/enterprise repositories and team collaboration</span>
 
